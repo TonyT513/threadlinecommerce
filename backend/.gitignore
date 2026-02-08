@@ -1,0 +1,12 @@
+# dependencies
+node_modules
+backend/node_modules
+
+# environment variables
+.env
+
+# macOS junk
+.DS_Store
+
+# practice folder
+threadlinecommerce site
